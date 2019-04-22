@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+ruby '2.5.1'
+gem 'rspec'
+gem 'pry', '~>0.10.3'
+gem 'byebug'
+gem 'sinatra', '~> 2.0', '>= 2.0.4'
+gem 'rack'
+gem 'shotgun'
